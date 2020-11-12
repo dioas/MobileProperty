@@ -1990,6 +1990,11 @@ chardet@^0.4.0:
   resolved "https://registry.yarnpkg.com/chardet/-/chardet-0.4.2.tgz#b5473b33dc97c424e5d98dc87d55d4d8a29c8bf2"
   integrity sha1-tUc7M9yXxCTl2Y3IfVXU2KKci/I=
 
+choco@^0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/choco/-/choco-0.2.1.tgz#6ab6f2fb3a281eefdd619c652cb90b36861e42af"
+  integrity sha1-arby+zooHu/dYZxlLLkLNoYeQq8=
+
 ci-info@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/ci-info/-/ci-info-2.0.0.tgz#67a9e964be31a51e15e5010d58e6f12834002f46"
